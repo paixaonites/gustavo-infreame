@@ -1,27 +1,48 @@
 body{
-    background-color: cornflowerblue;
- align-items: center;
+background-color: lightblue;
+margin: 0;
+padding:0;
+
 }
-table{
-    font-size: 40px;
-background-color: whitesmoke;
-  font-weight: 100;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+h1{
+    background-color: blue;
+    text-align: center;
+    font-size: 700%;
+   font-family: monospace;
+   color: gold;
+    
 }
 ul{
     text-align: center;
-    background-color: whitesmoke;
-    font-size: 25px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color:black;
+    font-size: 200%;
+    background-color: gold;
 }
-
-
-h1{
-    background-color: whitesmoke;
- display: flex;
- justify-content: center;
- font-family: sans-serif;
-
+h2{
+    text-align: center;
+    font-size: 400%;
+    background-color: gold;
 }
-
+tbody{
+    text-align: center;
+    font-size: 200%;
+}
+    section ul{
+        text-align: center;
+        font-size: 200%;
+    }
+    
+    table {
+       
+        font-size: 150%;
+        border-color: gold;
+    }
+     p{
+    text-align: center;
+    font-size: 200%;
+}
+a{
+    text-align:center;
+}
+li{
+    background-color: white;
+}
